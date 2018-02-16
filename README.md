@@ -1,5 +1,7 @@
 table-resize
 ============
+This is just a fork of table-resize work which resolves disappearing events on table headers by creating table resize object dynamically
+
 
 Resizing columns of html tables.
 
